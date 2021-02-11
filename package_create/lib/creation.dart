@@ -12,4 +12,8 @@ class _CreationPackageState extends State<CreationPackage> {
       
     );
   }
+
+  getDetails(String data){
+    return data;
+  }
 }
